@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'terminus';
+  src: url('static/fonts/terminus.eot'),
+       url('static/fonts/terminus.eot?#iefix') format('embedded-opentype'),
+       url('static/fonts/terminus.woff2') format('woff2'),
+       url('static/fonts/terminus.svg#TerminusTTF') format('svg'),
+       url('static/fonts/terminus.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'terminus', sans-serif;
+}
