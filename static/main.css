@@ -1,14 +1,3 @@
-@font-face {
-  font-family: 'terminus';
-  src: url('fonts/terminus.eot'),
-       url('fonts/terminus.eot?#iefix') format('embedded-opentype'),
-       url('fonts/terminus.woff2') format('woff2'),
-       url('fonts/terminus.svg#TerminusTTF') format('svg'),
-       url('fonts/terminus.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
 body {
-  font-family: 'terminus', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
 }
